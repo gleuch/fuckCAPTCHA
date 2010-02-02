@@ -27,7 +27,7 @@ if (!FATLab_fuckCAPTCHA) {
     Values : {
       Title : 'fuckCAPTCHA',
       Theme : 'default',
-      BasePath : '', // 'http://fffff.at/widgets/fuckCAPTCHA/',
+      BasePath : 'http://fffff.at/widgets/fuckCAPTCHA/',
       HTML : {
         'default' : '<style type="text/css"></style>'
       },
