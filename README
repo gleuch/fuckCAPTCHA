@@ -1,0 +1,21 @@
+
+  fuckCAPTCHA
+
+  ----------------------
+
+  Based on previous code for Speed Project Widget by Greg Leuch
+
+  ----------------------
+
+  Install:
+
+  Place the following code inside your <form> where you want the fuckCAPTCHA to display.
+
+  <script type="text/javascript" src="http://fffff.at/widgets/fuckCAPTCHA/fuckCAPTCHA.js"></script>
+  <script type="text/javascript">
+    if (FATLab_fuckCAPTCHA) {
+      FATLab_fuckCAPTCHA.Values.Theme='default'; // Options: default, classic, or vandal.
+      FATLab_fuckCAPTCHA.WidgetArea = false; // Can specify ID of element to replace, e.g. 'fatlab_iz_awesome'
+      FATLab_fuckCAPTCHA.Make();
+    }
+  </script>
