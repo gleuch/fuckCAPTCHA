@@ -52,7 +52,7 @@ if (!FATLab_fuckCAPTCHA) {
         +'</div>'
         +''
         +'<style type="text/css">'
-        +' .fuckCAPTCHA, .fuckCAPTCHA div {clear: both; display: block; height: auto; width: auto; margin: 0; padding: 0;}'
+        +' .fuckCAPTCHA, .fuckCAPTCHA div, .fuckCAPTCHA p {clear: both; display: block; height: auto; width: auto; margin: 0; padding: 0; text-align: left; line-height: 1.0em;}'
         +' .fuckCAPTCHA {position: relative; width: 304px; padding: 4px; border: 1px solid #ff00ff; background: #ffff00; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px;}'
         +' .fuckCAPTCHA .fuckCLEAR:after {content: "."; display: block; height: 0; visibility: hidden;}'
         +' .fuckCAPTCHA .fuckCLEAR {height: 49px; padding: 5px 0 0 0;}'
